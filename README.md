@@ -2,9 +2,9 @@
 
 ##### Needing to make a fairly simple 2 sided pcbs that was not a standard square or circle variant used in Fritzing I found any info very lacking on the web. Here I hope to show you how to accomplish that fairly painlessly. There are  a few examples on how to do but they're old and vague. I hope for the average user this guide will attempt to make it as painless as possible as to show the basics of desgning a custom pcb. I will be using Inkscape on a Mac but it should very similar on other os's.
 
-You can download Inkscape here: [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/64px-Inkscape_Logo.svg.png)](https://inkscape.org/en/download/)
+You can download this reprositiry for the .svg file used in this howto.
 
----
+You can download Inkscape here: [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/64px-Inkscape_Logo.svg.png)](https://inkscape.org/en/download/)
 
 ## Step 1.
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.1.png)
@@ -37,7 +37,6 @@ Open Document Properties.
 
 ## Step 2.
 
----
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.1.png)
 
 1. Open **Layers** up.
@@ -70,7 +69,6 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 3.
 
----
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.1.png)
 
 1. Select "board" layer.
@@ -122,7 +120,6 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 4.
 
----
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.1.png)
 
 1. Lock "board" layer.
@@ -167,7 +164,6 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 5.
 
----
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.1.png)
 
 1. Select **XML Editor...**.
@@ -198,7 +194,6 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 6.
 
----
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/6.1.png)
 
 1. Select **Document Properties...**.
@@ -212,4 +207,32 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 7.
 
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/7.1.png)
+
+1. Select **Save As...**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/7.2.png)
+
+1. Select **Plain SVG**.
+
 ## Step 8.
+
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.1.png)
+
+1. Open Fritzing to PCB tab, select the pcb and click **load image file**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.2.png)
+
+1. Select .svg file we just made and click **Open**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.3.png)
+
+Click **OK**. 
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.4.png)
+
+Now we see the pcb we just created!
