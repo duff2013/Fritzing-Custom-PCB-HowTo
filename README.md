@@ -7,27 +7,37 @@ You can download this repository for the .svg file used in this how-to.
 You can download Inkscape here: [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/64px-Inkscape_Logo.svg.png)](https://inkscape.org/en/download/)
 
 ## Step 1.
+1.1
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.1.png)
 
 Fire up Inkscape and create a new file with **no_boarders**. 
 
 ---
+1.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.2.png)
 
 Open **Document Properties...**
 
 ---
+1.3
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.3.png)
 
 1. Change **Default units** to millimeters.
 2. Change **Units** to millimeters.
 
 ---
+1.4
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.4.png)
 
 1. Select **Grids** tab and click **New**.
 
 ---
+1.5
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.5.png)
 
 1. Select **Grid**.
@@ -36,17 +46,22 @@ Open **Document Properties...**
 4. Choose a **Spacing Y**.
 
 ## Step 2.
+2.1
 
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.1.png)
 
 1. Open **Layers...** up.
 
 ---
+2.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.2.png)
 
 1. Rename this layer to "board".
 
 ---
+2.3
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.3.png)
 
 1. Add a new layer.
@@ -55,6 +70,8 @@ Open **Document Properties...**
 4. Click **Add**.
 
 ---
+2.4
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.4.png)
 
 1. Add a new layer.
@@ -63,6 +80,8 @@ Open **Document Properties...**
 4. Click **Add**.
 
 ---
+2.5
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.5.png)
 
 Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscreen layer and silkscreen0 is the bottom silkscreen layer.
