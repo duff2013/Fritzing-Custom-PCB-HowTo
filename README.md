@@ -122,9 +122,93 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 4.
 
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.1.png)
+
+1. Lock "board" layer.
+2. Unlock "silkscreen" layer.
+3. Lock "silkscreen0" layer.
+4. Select graphic.
+5. Select "no paint".
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.2.png)
+
+1. Select **Stroke paint**.
+2. Set **RGBA** to "ffffffff".
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.3.png)
+
+1. Select **Stroke style**.
+2. Set **Width** to "0.1" mm.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.4.png)
+
+1. Lock "board" layer.
+2. Lock "silkscreen" layer.
+3. Unlock "silkscreen0" layer.
+4. Select graphic.
+5. Select "no paint".
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.5.png)
+
+1. Select **Stroke paint**.
+2. Select flat color.
+3. Set **RGBA** to "ffffffff".
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.6.png)
+
+1. Select **Stroke style**.
+2. Set **Width** to "0.1" mm.
+
 ## Step 5.
 
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.1.png)
+
+1. Select **XML Editor...**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.2.png)
+
+1. Select "silkscreen0" layer.
+2. Select "id" **Attribute**.
+3. Change "id" **Value** to "silkscreen0".
+4. Click **Set**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.3.png)
+
+1. Select "silkscreen" layer.
+2. Select "id" **Attribute**.
+3. Change "id" **Value** to "silkscreen".
+4. Click **Set**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.4.png)
+
+1. Select "board" layer.
+2. Select "id" **Attribute**.
+3. Change "id" **Value** to "board".
+4. Click **Set**.
+
 ## Step 6.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/6.1.png)
+
+1. Select **Document Properties...**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/6.2.png)
+
+1. Select "page" tab.
+2. Select **Resize to content...**.
+3. Click  **Resize page to drawing or selection**.
 
 ## Step 7.
 
