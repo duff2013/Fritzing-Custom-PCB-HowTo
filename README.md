@@ -1,6 +1,6 @@
 #How to make custom pcbs for Fritzing using Inkscape. 
 
-##### Needing to make a fairly simple 2 sided pcbs that was not a standard square or circle variant used in Fritzing I found any info very lacking on the web. Here I hope to show you how to accomplish that fairly painlessly. There are few examples on how to do plus they're old and vague. I hope for the average user this guide will attempt to make it as painless as possible to show the basics of desgning a custom pcb. I will be using Inkscape on a Mac but it should very similar on other os's.
+##### Needing to make a fairly simple 2 sided pcbs that was not a standard square or circle variant used in Fritzing I found any info very lacking on the web. Here I hope to show you how to accomplish that fairly painlessly. There are  a few examples on how to do but they're old and vague. I hope for the average user this guide will attempt to make it as painless as possible as to show the basics of desgning a custom pcb. I will be using Inkscape on a Mac but it should very similar on other os's.
 
 You can download Inkscape here: [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/64px-Inkscape_Logo.svg.png)](https://inkscape.org/en/download/)
 
