@@ -6,7 +6,7 @@ You can download Inkscape here: [![](https://upload.wikimedia.org/wikipedia/comm
 
 ---
 
-### Step 1.
+## Step 1.
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/1.1.png)
 
 Fire up Inkscape and create a new file with no boarders. 
@@ -35,8 +35,7 @@ Open Document Properties.
 3. Choose a **Spacing X**.
 4. Choose a **Spacing Y**.
 
----
-### Step 2.
+## Step 2.
 
 ---
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/2.1.png)
@@ -69,8 +68,7 @@ Open Document Properties.
 
 Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscreen layer and silkscreen0 is the bottom silkscreen layer.
 
----
-### Step 3.
+## Step 3.
 
 ---
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.1.png)
@@ -99,7 +97,7 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.4.png)
 
 1. Select **Stroke paint**.
-2. Make nor paint.
+2. Make no paint.
 
 ---
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.5.png)
@@ -114,31 +112,20 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 ---
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.7.png)
 
+1. Select "silkscreen" layer.
+2. Select **Duplicate**.
+
+---
+![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.8.png)
+
 1. Select "Layer" and **Move Selection to Layer Below**.
 
----
-![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.8.png)
+## Step 4.
 
-1. Select "silkscreen" layer.
-2. Select **Duplicate**.
+## Step 5.
 
----
-![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.8.png)
+## Step 6.
 
-1. Select "silkscreen" layer.
-2. Select **Duplicate**.
+## Step 7.
 
-
-### Step 4.
-
-### Step 5.
-
-### Step 6.
-
-### Step 7.
-
-### Step 8.
-
-### Step 9.
-
-### Step 10.
+## Step 8.
