@@ -88,6 +88,8 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 
 ## Step 3.
 
+3.1
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.1.png)
 
 1. Select "board" layer.
@@ -97,12 +99,16 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 5. Draw pcb shape.
 
 ---
+3.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.2.png)
 
 1. Set "width" to something reasonable.
 2. Set "height" to something reasonable.
 
 ---
+3.3
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.3.png)
 
 1. Select shape.
@@ -111,33 +117,44 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 4. Change color to what you want, light colors work best.
 
 ---
+3.4
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.4.png)
 
 1. Select **Stroke paint**.
 2. Make no paint.
 
 ---
+3.5
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.5.png)
 
 1. Select **Duplicate**.
 
 ---
+3.6
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.6.png)
 
 1. Select "Layer" and **Move Selection to Layer Below**.
 
 ---
+3.7
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.7.png)
 
 1. Select "silkscreen" layer.
 2. Select **Duplicate**.
 
 ---
+3.8
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/3.8.png)
 
 1. Select "Layer" and **Move Selection to Layer Below**.
 
 ## Step 4.
+4.1
 
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.1.png)
 
@@ -148,18 +165,24 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 5. Select **Fill** "no paint".
 
 ---
+4.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.2.png)
 
 1. Select **Stroke paint**.
 2. Set **RGBA** to "ffffffff".
 
 ---
+4.3
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.3.png)
 
 1. Select **Stroke style**.
 2. Set **Width** to "0.1" mm.
 
 ---
+4.4
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.4.png)
 
 1. Lock "board" layer.
@@ -169,6 +192,8 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 5. Select **Fill** "no paint".
 
 ---
+4.5
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.5.png)
 
 1. Select **Stroke paint**.
@@ -176,18 +201,23 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 3. Set **RGBA** to "ffffffff".
 
 ---
+4.6
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/4.6.png)
 
 1. Select **Stroke style**.
 2. Set **Width** to "0.1" mm.
 
 ## Step 5.
+5.1
 
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.1.png)
 
 1. Select **XML Editor...**.
 
 ---
+5.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.2.png)
 
 1. Select "silkscreen0" layer.
@@ -196,6 +226,8 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 4. Click **Set**.
 
 ---
+5.3
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.3.png)
 
 1. Select "silkscreen" layer.
@@ -204,6 +236,8 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 4. Click **Set**.
 
 ---
+5.4
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/5.4.png)
 
 1. Select "board" layer.
@@ -212,12 +246,15 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 4. Click **Set**.
 
 ## Step 6.
+6.1
 
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/6.1.png)
 
 1. Select **Document Properties...**.
 
 ---
+6.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/6.2.png)
 
 1. Select "page" tab.
@@ -225,33 +262,43 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 3. Click  **Resize page to drawing or selection**.
 
 ## Step 7.
+7.1
 
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/7.1.png)
 
 1. Select **Save As...**.
 
 ---
+7.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/7.2.png)
 
 1. Select **Plain SVG**.
 
 ## Step 8.
+8.1
 
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.1.png)
 
 1. Open Fritzing to PCB tab, select the pcb and click **load image file**.
 
 ---
+8.2
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.2.png)
 
 1. Select .svg file we just made and click **Open**.
 
 ---
+8.3
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.3.png)
 
 Click **OK**. 
 
 ---
+8.4
+
 ![](https://github.com/duff2013/Fritzing-Custom-PCB-HowTo/blob/master/img/8.4.png)
 
 Now we see the pcb we just created!
